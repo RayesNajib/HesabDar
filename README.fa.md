@@ -3,8 +3,8 @@
 <p align="center">
   <img src="assets/hesab-dar-banner.png" alt="بنر حساب‌دار" width="100%">
 </p><h2 align="center">پول تو، حساب تو، کنترل تو</h2><p align="center">مدیریت هوشمند درآمد و هزینه‌های شخصی</p><p align="center">
-  <a href="README.md">🇬🇧 English</a> ·
-  <a href="README.fa.md"><strong>🇮🇷 فارسی</strong></a>
+  <a href="README.md"> English</a> ·
+  <a href="README.fa.md"><strong> فارسی</strong></a>
 </p><p align="center">
   <img src="https://img.shields.io/badge/پلتفرم-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/حالت-آفلاین--محور-4F46E5?style=for-the-badge">
@@ -59,7 +59,7 @@
   <a href="https://github.com/RayesNajib/HesabDar/releases">
     <img src="https://img.shields.io/badge/دانلود-آخرین%20نسخه-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="دانلود حساب‌دار">
   </a>
-</p>برای دریافت آخرین نسخه منتشرشده به بخش "انتشار نسخه‌ها در گیت‌هاب" (https://github.com/RayesNajib/HesabDar/releases) مراجعه کنید.
+</p>
 
 تصاویر برنامه
 
