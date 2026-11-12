@@ -1,6 +1,9 @@
 حساب‌دار | Hesab Dar
 
 <p align="center">
+  <img src="assets/hesab-dar-banner.png" 
+
+<p align="center">
   <strong>پول تو، حساب تو، کنترل تو</strong>
   <br>
   مدیریت هوشمند درآمد و هزینه‌های شخصی
