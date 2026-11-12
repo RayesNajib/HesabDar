@@ -1,25 +1,24 @@
 Hesab Dar | حساب‌دار
 
 <p align="center">
-  <img src="assets/hesab-dar-banner.png" alt="Hesab Dar – Personal Finance Manager" width="100%">
-</p><h2 align="center">Your Money. Your Records. Your Control.</h2><p align="center">
-  An Offline-First Personal Finance Manager
+  <img src="assets/hesab-dar-banner.png" alt="Hesab Dar Banner" width="100%">
+</p><h2 align="center">Your Money. Your Records. Your Control.</h2><p align="center">An Offline-First Personal Finance Manager</p><p align="center">
+  <a href="README.md"><strong>English</strong></a> ·
+  <a href="README.fa.md">فارسی</a>
 </p><p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/Offline-First-4F46E5?style=for-the-badge" alt="Offline First">
-  <img src="https://img.shields.io/badge/Languages-Persian%20%7C%20English-2563EB?style=for-the-badge" alt="Languages">
-  <img src="https://img.shields.io/badge/License-Proprietary-orange?style=for-the-badge" alt="Proprietary License">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Mode-Offline--First-4F46E5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Languages-Persian%20%7C%20English-2563EB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-Proprietary-orange?style=for-the-badge">
 </p>---
 
 About Hesab Dar
 
-Hesab Dar is a personal finance application built to make income and expense management simple, accurate, and accessible.
+Hesab Dar is a personal finance application designed to help users record and manage their income, expenses, unpaid earnings, and daily financial activities.
 
-It is designed for employees, daily workers, drivers, freelancers, and anyone with regular or irregular income.
+Whether you receive a monthly salary, work daily, freelance, or have irregular income, Hesab Dar helps you understand your financial situation more accurately.
 
-Track your money, manage unpaid earnings, monitor expenses, and understand your financial situation — all in one place.
-
-Key Features
+Features
 
 <table>
 <tr>
@@ -28,15 +27,13 @@ Key Features
 - Record daily income
 - Track received payments
 - Manage unpaid earnings
-- Keep payment records organized
 
 </td>
 <td width="50%" valign="top">Expense Management
 
-- Record daily expenses
+- Record expenses
 - Organize expense categories
 - Add notes to transactions
-- Review spending history
 
 </td>
 </tr>
@@ -44,17 +41,15 @@ Key Features
 <td width="50%" valign="top">Financial Reports
 
 - Calculate net profit
-- Review financial performance
-- Filter reports by date range
-- Share reports as images or text
+- View financial history
+- Share reports as text or images
 
 </td>
 <td width="50%" valign="top">Personalization
 
-- Persian and English interface
+- Persian and English languages
 - Light and dark themes
 - Multiple calendar systems
-- Simple and clear experience
 
 </td>
 </tr>
@@ -62,17 +57,17 @@ Key Features
 
 <p align="center">
   <a href="https://github.com/RayesNajib/HesabDar/releases">
-    <img src="https://img.shields.io/badge/GET%20THE%20APP-Download%20Latest%20Version-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Download Hesab Dar">
+    <img src="https://img.shields.io/badge/Download-Latest%20Version-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Download Hesab Dar">
   </a>
-</p>Visit the "Releases page" (https://github.com/RayesNajib/HesabDar/releases) to download the latest available version.
+</p>Download the latest available version from the "GitHub Releases" (https://github.com/RayesNajib/HesabDar/releases) page.
 
 Screenshots
 
 <p align="center">
-  <i>Application screenshots will be published here.</i>
+  <i>Application screenshots will be added here.</i>
 </p>Privacy
 
-Hesab Dar follows an offline-first approach. Your financial information is intended to remain on your device rather than requiring a permanent internet connection.
+Hesab Dar is designed with an offline-first approach. Financial information is stored locally on the device.
 
 Language & Calendar Support
 
@@ -86,7 +81,7 @@ License
 
 Hesab Dar is proprietary software.
 
-Personal use is permitted under the terms of the included license. Unauthorized copying, modification, commercial distribution, or redistribution is prohibited.
+Downloading and using the application for personal purposes is permitted under the terms of its license. Unauthorized copying, modification, selling, or redistribution is prohibited.
 
 Read the full "LICENSE" (LICENSE).
 
@@ -97,8 +92,7 @@ Developer
   <br>
   Creator & Developer of Hesab Dar
   <br><br>
-  <a href="https://najib-ullah.netlify.app">Official Website</a>
-  &nbsp; · &nbsp;
+  <a href="https://najib-ullah.netlify.app">Official Website</a> ·
   <a href="https://github.com/RayesNajib">GitHub Profile</a>
 </p>---
 
