@@ -59,7 +59,7 @@ Features
   <a href="https://github.com/RayesNajib/HesabDar/releases">
     <img src="https://img.shields.io/badge/Download-Latest%20Version-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Download Hesab Dar">
   </a>
-</p>Download the latest available version from the "GitHub Releases" (https://github.com/RayesNajib/HesabDar/releases) page.
+</p>
 
 Screenshots
 
